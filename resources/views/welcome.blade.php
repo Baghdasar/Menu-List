@@ -55,7 +55,6 @@
         </select>
         <button class="btn btn-outline-secondary ms-5 pe-5" type="submit">Button</button>
     </div>
-
 </form>
 
 {{-- @foreach ($menus as $mainCat)
