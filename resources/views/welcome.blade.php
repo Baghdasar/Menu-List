@@ -30,7 +30,7 @@
 
 
 
-
+<h1>test</h1>
 <form action="{{route('menu.level.del')}}" method="post">
 @csrf
     <div class="d-flex flex-row mb-3 p-3">
